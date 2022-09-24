@@ -1,4 +1,4 @@
-Hello! I'm Ndango Kutama, an aspiring data scientist from South Africa.
+Hello! I'm Ndango Kutama, an aspiring data scientist.
 
 ✨ About Me in 30 Seconds ✨
 - I'm currently studying BSc Applied Mathematics
